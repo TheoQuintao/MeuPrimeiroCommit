@@ -25,8 +25,12 @@ Suporte para uso do git hub.
 **cmdkey /delete:LegacyGeneric:target=git:https://github.com** : Esse comando irá retirar o usuario autenticado.
 
 Para iniciar o GIT em um novo repositório: **git clone (codigo do repositorio)** para criar uma copia do repositório.
+
 Para adicionar as alterações realizadas no repositório: **git add .** para adicionar as mudanças.
+
 Para gravar as alterações: **git commit -m "texto"** para gravar as alterações em uma commit.
+
 Para enviar as alterações para a nuvem/repositório online: **git push** para enviar as alterações.
+
 Se o repositório em meu computador estiver desatualizado, como faço para atualizá-lo? **git pull** para salvar o repertório da nuvem no pc local.
 Lembrando que estarei atualizando com base no reposiório salvo no GitHub.
