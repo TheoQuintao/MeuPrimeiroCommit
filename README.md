@@ -24,6 +24,16 @@ Suporte para uso do git hub.
 
 **cmdkey /delete:LegacyGeneric:target=git:https://github.com** : Esse comando irá retirar o usuario autenticado.
 
+**git branch** : Verifica quais branches estão disponiveis.
+
+**git checkout nome-da-branch** : Se quiser mudar para uma branch já existente.
+
+**git checkout -b nova-branch** : Caso queira criar uma nova branch e já alternar para ela.
+
+**git switch nome-da-branch** : Para alternar entre branchs ja existente.
+
+**git switch -c nova-branch** : Para criar uma nova branch e já alternar para ela.
+
 Para iniciar o GIT em um novo repositório: **git clone (codigo do repositorio)** para criar uma copia do repositório.
 
 Para adicionar as alterações realizadas no repositório: **git add .** para adicionar as mudanças.
